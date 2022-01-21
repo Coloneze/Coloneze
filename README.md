@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou em buscar de uma nova oportunidade,
 - 🌱 Estou aprendendo programação para me ajudar em análises mais profundas;
-- 💬 Pergunte-me sobre negócios, projetos, produtos e programação, teremos muitas trocas de idéias,
+- 💬 Pergunte-me sobre negócios, projetos, produtos e programação, teremos muita troca de idéia,
 - 📫 Como chegar até mim: camila.coloneze@hotmail.com
 - 😄 Pronomes: Ela / Dela
 
