@@ -12,9 +12,5 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coloneze&layout=compact&langs_count=7&theme=gotham"/>
 </div>
   
-  ##
-  
-  <div> 
-  <a href="www.linkedin.com/in/camila-coloneze-projetos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
+
   
